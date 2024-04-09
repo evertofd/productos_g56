@@ -16,6 +16,7 @@ const App = () => {
 
   return (
     <div className="container">
+      <h2>Buscador</h2>
       <h1>Productos</h1>
       <Grilla products={products}/>
     </div>
